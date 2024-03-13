@@ -28,18 +28,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "心爱的乖宝": "./imgs/guaibao_min.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
+        turn_on: "点击开始吧",
+        play: "音乐走起~",
+        bannar_coming: "装饰一下吧",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        cake_fadein: "来个蛋糕吧",
+        light_candle: "少个蜡烛？",
+        wish_message: "乖宝生日快乐",
         story: "A MESSAGE FOR YOU",
     }
 };
